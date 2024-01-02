@@ -1,2 +1,3 @@
-# freecodecamp-python-exercises
-Repositório para armazenar os exercícios realizados na trilha de computer science with Python
+# Exercícios de Python - Freecodecamp
+
+Repositório para armazenar os exercícios realizados na trilha de Science Computing with Python
